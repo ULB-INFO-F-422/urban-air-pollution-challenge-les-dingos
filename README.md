@@ -1,3 +1,4 @@
+# Description:
 This repository is dedicated to showcasing our work for INFO-F-422-Statistical Foundations of Machine Learning course at the Université Libre de Bruxelles. Our focus lies on the Urban Air Pollution Challenge hosted on Zindi, which revolves around predicting daily PM2.5 particulate matter concentrations for various cities globally.
 
 # Project Goals:
